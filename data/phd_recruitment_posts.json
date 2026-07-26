@@ -10,7 +10,8 @@
     "original_link": "https://x.com/PrutYifat/status/2080385777054224710",
     "research_focus": "Motor learning, subcortical signals, cortical interactions",
     "application_notes": "Send message or email",
-    "scraped_at": "2026-07-25T19:00:00Z"
+    "scraped_at": "2026-07-25T19:00:00Z",
+    "category": "Neuroscience / Life Sciences"
   },
   {
     "id": "2079993708796170740",
@@ -23,7 +24,8 @@
     "original_link": "https://x.com/andganna/status/2079993708796170740",
     "research_focus": "AI + foundation models + human genetics + population-scale health data",
     "application_notes": "Apply 28 Jul–7 Sep 2026 via Politecnico di Milano",
-    "scraped_at": "2026-07-25T19:00:00Z"
+    "scraped_at": "2026-07-25T19:00:00Z",
+    "category": "AI / Health Data Science"
   },
   {
     "id": "2078923692776521740",
@@ -36,46 +38,50 @@
     "original_link": "https://x.com/JasonChow/status/2078923692776521740",
     "research_focus": "Education, equity, implementation science for children and families",
     "application_notes": "Contact for Fall 2027",
-    "scraped_at": "2026-07-25T19:00:00Z"
+    "scraped_at": "2026-07-25T19:00:00Z",
+    "category": "Education / Social Sciences"
   },
   {
-    "id": "1861946883616424143",
-    "post_time": "2024-11-28T01:35:05Z",
-    "author_name": "Sam Kumar",
-    "author_handle": "@samkumar_cs",
-    "institution": "UCLA Computer Science",
-    "original_text": "I am recruiting PhD students to join my research group! If you're interested in systems or security (including intersections with cryptography, datacenters, AI, etc.), then please apply to UCLA Computer Science (@UCLAComSci) and list me on your application as a potential advisor.",
-    "chinese_translation": "我正在招收博士生加入我的研究组！如果你对系统或安全（包括与密码学、数据中心、AI等的交叉领域）感兴趣，请申请UCLA计算机科学并在申请中将我列为潜在导师。",
-    "original_link": "https://x.com/samkumar_cs/status/1861946883616424143",
-    "research_focus": "System Security and Networked Systems",
-    "application_notes": "Apply to UCLA CS and list as potential advisor",
-    "scraped_at": "2026-07-25T19:00:00Z"
+    "id": "lausanne-athias-2026",
+    "post_time": "2026-07-25T12:00:00Z",
+    "author_name": "Laure Athias",
+    "author_handle": "Prof. Laure Athias (via university announcements)",
+    "institution": "University of Lausanne (IDHEAP), Switzerland",
+    "original_text": "Two PhD Positions in Public Economics and Political Economy at the University of Lausanne (IDHEAP). Conduct original research leading to a PhD dissertation in public economics, political economy, or at their intersection under supervision of Prof. Laure Athias. Deadline: 1 Oct 2026. Start: 1 Oct 2026 or later.",
+    "chinese_translation": "洛桑大学（IDHEAP）公共经济学与政治经济学方向招收2名博士生。在Laure Athias教授指导下开展原创研究。申请截止：2026年10月1日。入职时间：2026年10月1日或之后。",
+    "original_link": "https://x.com/thatoptometrist/status/2080993099199729932",
+    "research_focus": "Public Economics, Political Economy",
+    "application_notes": "Deadline 1 Oct 2026; Master's in Economics or equivalent; strong quantitative skills",
+    "scraped_at": "2026-07-26T04:00:00Z",
+    "category": "Economics / Political Science"
   },
   {
-    "id": "1986471264819536101",
-    "post_time": "2025-11-06T16:30:31Z",
-    "author_name": "Peter Henderson",
-    "author_handle": "@PeterHndrsn",
-    "institution": "Princeton University",
-    "original_text": "We're getting close to PhD application time. I'm looking for PhD students and post-docs to join our lab to work on reinforcement learning! If interested, make sure to mention my name in your statement and/or fill out the expression of interest form below!",
-    "chinese_translation": "博士申请季快到了。我正在寻找博士生和博士后加入我们的实验室，从事强化学习研究！如果感兴趣，请务必在个人陈述中提及我的名字，并/或填写下方的意向表达表格！",
-    "original_link": "https://x.com/PeterHndrsn/status/1986471264819536101",
-    "research_focus": "Reinforcement learning, strategic decision-making, alignment",
-    "application_notes": "Mention name in statement + expression of interest form",
-    "scraped_at": "2026-07-25T19:00:00Z"
+    "id": "hasselt-wouters-2026",
+    "post_time": "2026-07-25T12:00:00Z",
+    "author_name": "Ruud Wouters",
+    "author_handle": "Prof. dr. Ruud Wouters (via Hasselt University)",
+    "institution": "Hasselt University, Belgium",
+    "original_text": "PhD Student: Protest Politics (2 mandates). Analyzing how protests shape public opinion. Political Science and International Relations. Deadline: Aug 17, 2026. Requires Master's in social sciences and quantitative research skills.",
+    "chinese_translation": "哈瑟尔特大学招收抗议政治方向博士生（2个名额）。研究抗议如何塑造公众舆论。政治科学与国际关系。截止：2026年8月17日。需要社会科学硕士学位和定量研究技能。",
+    "original_link": "https://x.com/PhdScanner/status/2080994853585133756",
+    "research_focus": "Protest Politics, Political Science",
+    "application_notes": "Deadline Aug 17, 2026",
+    "scraped_at": "2026-07-26T04:00:00Z",
+    "category": "Political Science"
   },
   {
-    "id": "1860199853424542171",
-    "post_time": "2024-11-23T05:53:00Z",
-    "author_name": "Yi Ma",
-    "author_handle": "@YiMaTweets",
-    "institution": "University of Hong Kong (HKU)",
-    "original_text": "I am recruiting PhD students as HKU now. Welcome top students who are passionate about machine intelligence to apply -- better with a good background in computing and mathematics.",
-    "chinese_translation": "我现在以香港大学身份招收博士生。欢迎对机器智能充满热情的优秀学生申请——最好有扎实的计算和数学背景。",
-    "original_link": "https://x.com/YiMaTweets/status/1860199853424542171",
-    "research_focus": "Machine intelligence, deep representation learning",
-    "application_notes": "Apply to HKU",
-    "scraped_at": "2026-07-25T19:00:00Z"
+    "id": "fribourg-schelker-2026",
+    "post_time": "2026-05-28T21:25:55Z",
+    "author_name": "Mark Schelker",
+    "author_handle": "Prof. Dr. Mark Schelker",
+    "institution": "University of Fribourg, Switzerland",
+    "original_text": "PhD Position in Public Economics at the Chair of Public Economics. 100% PhD position with research and teaching assistant responsibilities, up to 4 years, starting around September 2026. Empirically oriented research in public economics.",
+    "chinese_translation": "弗里堡大学公共经济学教席招收博士生（100%职位，含研究与教学助理职责），最长4年，约2026年9月开始。实证导向的公共经济学研究。",
+    "original_link": "https://x.com/MrsScotty_M/status/2060110344094445678",
+    "research_focus": "Public Economics",
+    "application_notes": "Starting ~Sep 2026; Master's in economics; strong empirical methods",
+    "scraped_at": "2026-07-26T04:00:00Z",
+    "category": "Economics"
   },
   {
     "id": "1881640581837049882",
@@ -88,7 +94,50 @@
     "original_link": "https://x.com/SiljaHausermann/status/1881640581837049882",
     "research_focus": "Political Science",
     "application_notes": "Deadline early March 2025",
-    "scraped_at": "2026-07-25T19:00:00Z"
+    "scraped_at": "2026-07-25T19:00:00Z",
+    "category": "Political Science"
+  },
+  {
+    "id": "1861946883616424143",
+    "post_time": "2024-11-28T01:35:05Z",
+    "author_name": "Sam Kumar",
+    "author_handle": "@samkumar_cs",
+    "institution": "UCLA Computer Science",
+    "original_text": "I am recruiting PhD students to join my research group! If you're interested in systems or security (including intersections with cryptography, datacenters, AI, etc.), then please apply to UCLA Computer Science (@UCLAComSci) and list me on your application as a potential advisor.",
+    "chinese_translation": "我正在招收博士生加入我的研究组！如果你对系统或安全（包括与密码学、数据中心、AI等的交叉领域）感兴趣，请申请UCLA计算机科学并在申请中将我列为潜在导师。",
+    "original_link": "https://x.com/samkumar_cs/status/1861946883616424143",
+    "research_focus": "System Security and Networked Systems",
+    "application_notes": "Apply to UCLA CS and list as potential advisor",
+    "scraped_at": "2026-07-25T19:00:00Z",
+    "category": "Computer Science"
+  },
+  {
+    "id": "1986471264819536101",
+    "post_time": "2025-11-06T16:30:31Z",
+    "author_name": "Peter Henderson",
+    "author_handle": "@PeterHndrsn",
+    "institution": "Princeton University",
+    "original_text": "We're getting close to PhD application time. I'm looking for PhD students and post-docs to join our lab to work on reinforcement learning! If interested, make sure to mention my name in your statement and/or fill out the expression of interest form below!",
+    "chinese_translation": "博士申请季快到了。我正在寻找博士生和博士后加入我们的实验室，从事强化学习研究！如果感兴趣，请务必在个人陈述中提及我的名字，并/或填写下方的意向表达表格！",
+    "original_link": "https://x.com/PeterHndrsn/status/1986471264819536101",
+    "research_focus": "Reinforcement learning, strategic decision-making, alignment",
+    "application_notes": "Mention name in statement + expression of interest form",
+    "scraped_at": "2026-07-25T19:00:00Z",
+    "category": "AI / Computer Science"
+  },
+  {
+    "id": "1860199853424542171",
+    "post_time": "2024-11-23T05:53:00Z",
+    "author_name": "Yi Ma",
+    "author_handle": "@YiMaTweets",
+    "institution": "University of Hong Kong (HKU)",
+    "original_text": "I am recruiting PhD students as HKU now. Welcome top students who are passionate about machine intelligence to apply -- better with a good background in computing and mathematics.",
+    "chinese_translation": "我现在以香港大学身份招收博士生。欢迎对机器智能充满热情的优秀学生申请——最好有扎实的计算和数学背景。",
+    "original_link": "https://x.com/YiMaTweets/status/1860199853424542171",
+    "research_focus": "Machine intelligence, deep representation learning",
+    "application_notes": "Apply to HKU",
+    "scraped_at": "2026-07-25T19:00:00Z",
+    "category": "AI / Computer Science"
   },
   {
     "id": "2018689301437923341",
@@ -101,6 +150,7 @@
     "original_link": "https://x.com/eriksonnhammer/status/2018689301437923341",
     "research_focus": "Gene Regulatory Networks, Multi-omics, Deep Learning",
     "application_notes": "Apply by Feb 22, 2026",
-    "scraped_at": "2026-07-25T19:00:00Z"
+    "scraped_at": "2026-07-25T19:00:00Z",
+    "category": "Bioinformatics / Life Sciences"
   }
 ]
