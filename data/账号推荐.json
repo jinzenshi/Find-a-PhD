@@ -1,0 +1,11 @@
+[
+  {
+    "handle": "@PhdScanner",
+    "type": "aggregator",
+    "name": "PhdScanner",
+    "description": "聚合账号，专门扫描并发布各类博士招聘信息",
+    "url": "https://x.com/PhdScanner",
+    "notes": "高频发布PhD招聘相关帖子，覆盖多学科",
+    "added_at": "2026-07-26T18:00:00Z"
+  }
+]
