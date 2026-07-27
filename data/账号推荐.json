@@ -61,5 +61,14 @@
     "url": "https://x.com/researchersjob",
     "notes": "覆盖瑞士、荷兰等多国职位",
     "added_at": "2026-07-27T01:13:00Z"
+  },
+  {
+    "handle": "@phdhunter7",
+    "type": "aggregator",
+    "name": "PHD Hunter",
+    "description": "匹配全球全额资助博士机会的聚合账号",
+    "url": "https://x.com/phdhunter7",
+    "notes": "发布语言学、人类学等多领域博士职位",
+    "added_at": "2026-07-27T09:40:00Z"
   }
 ]
