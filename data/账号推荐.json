@@ -7,5 +7,59 @@
     "url": "https://x.com/PhdScanner",
     "notes": "高频发布PhD招聘相关帖子，覆盖多学科",
     "added_at": "2026-07-26T18:00:00Z"
+  },
+  {
+    "handle": "@thatoptometrist",
+    "type": "aggregator",
+    "name": "Mark™️",
+    "description": "频繁汇总并发布全球全额资助博士与博士后职位的账号",
+    "url": "https://x.com/thatoptometrist",
+    "notes": "主要转发欧洲与北美高校PhD机会，内容详细",
+    "added_at": "2026-07-27T01:13:00Z"
+  },
+  {
+    "handle": "@el_bonga",
+    "type": "aggregator",
+    "name": "Mr. El-Bonga",
+    "description": "发布各类全额资助博士与奖学金机会的学术账号",
+    "url": "https://x.com/el_bonga",
+    "notes": "涵盖新加坡、美国等多地职位",
+    "added_at": "2026-07-27T01:13:00Z"
+  },
+  {
+    "handle": "@AminuNass",
+    "type": "personal",
+    "name": "Prof. Aminu Ma'aruf Nass",
+    "description": "数学与应用数学教授，偶尔分享相关博士招聘信息",
+    "url": "https://x.com/AminuNass",
+    "notes": "个人教授账号",
+    "added_at": "2026-07-27T01:13:00Z"
+  },
+  {
+    "handle": "@YuIshibashi_TMU",
+    "type": "personal",
+    "name": "石橋裕",
+    "description": "东京都立大学教授，直接招收作业疗法学博士生",
+    "url": "https://x.com/YuIshibashi_TMU",
+    "notes": "日本高校个人教授账号",
+    "added_at": "2026-07-27T01:13:00Z"
+  },
+  {
+    "handle": "@agristok",
+    "type": "aggregator",
+    "name": "Agristok",
+    "description": "专注农业与生物科学领域全球研究职位汇总",
+    "url": "https://x.com/agristok",
+    "notes": "常发布欧洲高校批量博士招生信息",
+    "added_at": "2026-07-27T01:13:00Z"
+  },
+  {
+    "handle": "@researchersjob",
+    "type": "aggregator",
+    "name": "RJ",
+    "description": "持续发布欧洲高校博士职位的汇总账号",
+    "url": "https://x.com/researchersjob",
+    "notes": "覆盖瑞士、荷兰等多国职位",
+    "added_at": "2026-07-27T01:13:00Z"
   }
 ]
