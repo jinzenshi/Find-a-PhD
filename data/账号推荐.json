@@ -89,22 +89,40 @@
     "notes": "涵盖康奈尔等高校渔业与生态相关职位",
     "added_at": "2026-07-28T12:00:00Z"
   },
-{
-    "handle": "@GoScholari",
+  {
+    "handle": "@FindAPhD",
     "type": "aggregator",
-    "name": "GoScholarAI",
-    "description": "帮助非洲或国际学生寻找全额资助奖学金的聚合账号",
-    "url": "https://x.com/GoScholari",
-    "notes": "发布美国高校全额资助博士机会",
-    "added_at": "2026-07-28T12:00:00Z"
+    "name": "FindAPhD",
+    "description": "世界最大博士数据库官方账号，发布全球PhD项目与全额资助机会",
+    "url": "https://x.com/FindAPhD",
+    "notes": "对应网站 findaphd.com，教授与院校常在此发布博士招聘",
+    "added_at": "2026-07-28T01:30:00Z"
   },
   {
-    "handle": "@SofiaFieldsEdit",
+    "handle": "@academpositions",
     "type": "aggregator",
-    "name": "Sofia Fields Editorial Services",
-    "description": "发布各类全额资助博士与研究机会的账号",
-    "url": "https://x.com/SofiaFieldsEdit",
-    "notes": "涵盖康奈尔等高校渔业与生态相关职位",
-    "added_at": "2026-07-28T12:00:00Z"
+    "name": "Academic Positions",
+    "description": "国际学术与研究职位网络，覆盖欧洲及全球高校博士与教职招聘",
+    "url": "https://x.com/academpositions",
+    "notes": "对应网站 academicpositions.com，高频更新PhD openings",
+    "added_at": "2026-07-28T01:30:00Z"
+  },
+  {
+    "handle": "@jobsacuk",
+    "type": "aggregator",
+    "name": "jobs.ac.uk",
+    "description": "英国及全球高等教育职位板，包括大量PhD与研究助理职位",
+    "url": "https://x.com/jobsacuk",
+    "notes": "对应网站 jobs.ac.uk，教授与大学官方发布渠道",
+    "added_at": "2026-07-28T01:30:00Z"
+  },
+  {
+    "handle": "@EURAXESS",
+    "type": "aggregator",
+    "name": "EURAXESS",
+    "description": "欧盟官方研究人才流动平台账号，发布欧洲各国博士与研究职位",
+    "url": "https://x.com/EURAXESS",
+    "notes": "对应网站 euraxess.ec.europa.eu，官方资助与职位信息源",
+    "added_at": "2026-07-28T01:30:00Z"
   }
 ]
