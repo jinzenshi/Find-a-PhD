@@ -88,5 +88,23 @@
     "url": "https://x.com/SofiaFieldsEdit",
     "notes": "涵盖康奈尔等高校渔业与生态相关职位",
     "added_at": "2026-07-28T12:00:00Z"
+  },
+{
+    "handle": "@GoScholari",
+    "type": "aggregator",
+    "name": "GoScholarAI",
+    "description": "帮助非洲或国际学生寻找全额资助奖学金的聚合账号",
+    "url": "https://x.com/GoScholari",
+    "notes": "发布美国高校全额资助博士机会",
+    "added_at": "2026-07-28T12:00:00Z"
+  },
+  {
+    "handle": "@SofiaFieldsEdit",
+    "type": "aggregator",
+    "name": "Sofia Fields Editorial Services",
+    "description": "发布各类全额资助博士与研究机会的账号",
+    "url": "https://x.com/SofiaFieldsEdit",
+    "notes": "涵盖康奈尔等高校渔业与生态相关职位",
+    "added_at": "2026-07-28T12:00:00Z"
   }
 ]
