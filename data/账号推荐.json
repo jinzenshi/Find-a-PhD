@@ -124,5 +124,32 @@
     "url": "https://x.com/EURAXESS",
     "notes": "对应网站 euraxess.ec.europa.eu，官方资助与职位信息源",
     "added_at": "2026-07-28T01:30:00Z"
+  },
+  {
+    "handle": "@FellowshipRadar",
+    "type": "aggregator",
+    "name": "Research Radar",
+    "description": "聚合全球研究资助、奖学金与全额资助博士机会的账号",
+    "url": "https://x.com/FellowshipRadar",
+    "notes": "每日更新欧洲等地博士职位",
+    "added_at": "2026-07-29T12:00:00Z"
+  },
+  {
+    "handle": "@VacancyEdu",
+    "type": "aggregator",
+    "name": "VacancyEdu.com",
+    "description": "发布各类博士、博士后及学术职位的聚合账号",
+    "url": "https://x.com/VacancyEdu",
+    "notes": "覆盖挪威等高校多职位",
+    "added_at": "2026-07-29T12:00:00Z"
+  },
+  {
+    "handle": "@higherjobz",
+    "type": "aggregator",
+    "name": "HigherJobz | Academic Jobs",
+    "description": "专注考古、遗产、进化与古科学领域博士与教职机会",
+    "url": "https://x.com/higherjobz",
+    "notes": "发布德国等欧洲相关职位",
+    "added_at": "2026-07-29T12:00:00Z"
   }
 ]
