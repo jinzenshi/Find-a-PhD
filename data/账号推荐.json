@@ -151,5 +151,14 @@
     "url": "https://x.com/higherjobz",
     "notes": "发布德国等欧洲相关职位",
     "added_at": "2026-07-29T12:00:00Z"
+  },
+  {
+    "handle": "@ecotoxblog",
+    "type": "aggregator",
+    "name": "The EcotoxBlog",
+    "description": "专注生态毒理学领域，发布相关博士与研究职位信息",
+    "url": "https://x.com/ecotoxblog",
+    "notes": "发布德国等欧洲生态毒理与环境科学博士职位",
+    "added_at": "2026-07-30T04:00:00Z"
   }
 ]
