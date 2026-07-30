@@ -160,5 +160,50 @@
     "url": "https://x.com/ecotoxblog",
     "notes": "发布德国等欧洲生态毒理与环境科学博士职位",
     "added_at": "2026-07-30T04:00:00Z"
+  },
+  {
+    "handle": "@ApplyKite",
+    "type": "aggregator",
+    "name": "Apply Kite",
+    "description": "汇总并发布全球全额资助博士与研究职位的聚合账号",
+    "url": "https://x.com/ApplyKite",
+    "notes": "常发布瑞典等欧洲多国批量PhD机会汇总",
+    "added_at": "2026-07-30T00:58:17Z"
+  },
+  {
+    "handle": "@mujeebbalo",
+    "type": "personal",
+    "name": "Mujeeb",
+    "description": "环境领域研究者，直接发布圭尔夫大学相关博士招聘",
+    "url": "https://x.com/mujeebbalo",
+    "notes": "个人账号，发布土壤-传粉者等环境科学博士职位",
+    "added_at": "2026-07-30T00:58:17Z"
+  },
+  {
+    "handle": "@Demo4show",
+    "type": "aggregator",
+    "name": "Ademola",
+    "description": "奖学金与博士机会分享账号，转发欧洲高校课题组招聘",
+    "url": "https://x.com/Demo4show",
+    "notes": "常分享德国等地DFG/CRC相关博士招聘信息",
+    "added_at": "2026-07-30T00:58:17Z"
+  },
+  {
+    "handle": "@JuliaMlk2005",
+    "type": "aggregator",
+    "name": "Julia Marti",
+    "description": "通过Owlindex等渠道高频转发美国高校资助博士职位",
+    "url": "https://x.com/JuliaMlk2005",
+    "notes": "内容多为美国高校全额资助PhD汇总帖",
+    "added_at": "2026-07-30T00:58:17Z"
+  },
+  {
+    "handle": "@MrsScotty_M",
+    "type": "other",
+    "name": "Mrs M",
+    "description": "分享公共卫生与欧洲高校博士奖学金信息的个人账号",
+    "url": "https://x.com/MrsScotty_M",
+    "notes": "偶发爱尔兰等高校博士奖学金通知",
+    "added_at": "2026-07-30T00:58:17Z"
   }
 ]
