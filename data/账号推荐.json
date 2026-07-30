@@ -205,5 +205,23 @@
     "url": "https://x.com/MrsScotty_M",
     "notes": "偶发爱尔兰等高校博士奖学金通知",
     "added_at": "2026-07-30T00:58:17Z"
+  },
+  {
+    "handle": "@SWculek",
+    "type": "personal",
+    "name": "Stefanie Wculek",
+    "description": "IRB Barcelona初级研究组长，专注先天免疫与中性粒细胞代谢，直接发布实验室博士招聘",
+    "url": "https://x.com/SWculek",
+    "notes": "个人教授账号，发布免疫代谢相关博士职位",
+    "added_at": "2026-07-31T12:00:00Z"
+  },
+  {
+    "handle": "@sciencehr",
+    "type": "aggregator",
+    "name": "Science HR",
+    "description": "科学人力资源职位板与职业门户，持续发布学术与工业界博士及科研职位",
+    "url": "https://x.com/sciencehr",
+    "notes": "聚合账号，覆盖工程、生物、神经科学等多领域PhD职位",
+    "added_at": "2026-07-31T12:00:00Z"
   }
 ]
