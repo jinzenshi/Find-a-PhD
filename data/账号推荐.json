@@ -223,5 +223,68 @@
     "url": "https://x.com/sciencehr",
     "notes": "聚合账号，覆盖工程、生物、神经科学等多领域PhD职位",
     "added_at": "2026-07-31T12:00:00Z"
+  },
+  {
+    "handle": "@NeuroAlc",
+    "type": "other",
+    "name": "Instituto de Neurociencias UMH-CSIC",
+    "description": "西班牙阿利坎特 UMH-CSIC 神经科学研究所官方账号，发布本所招聘与科研信息。",
+    "url": "https://x.com/NeuroAlc",
+    "notes": "本 run 发布疼痛与感觉神经科学4年博士职位。",
+    "added_at": "2026-08-01T11:38:16Z"
+  },
+  {
+    "handle": "@ObengCosmos",
+    "type": "aggregator",
+    "name": "Cosmos Scholarship Network",
+    "description": "奖学金与全额资助博/硕机会汇总账号。",
+    "url": "https://x.com/ObengCosmos",
+    "notes": "本 run 转发 GMU SPIRE 与 Virginia Tech 等博士招聘。",
+    "added_at": "2026-08-01T11:38:16Z"
+  },
+  {
+    "handle": "@GlobalOpp1",
+    "type": "aggregator",
+    "name": "Global South Opportunities",
+    "description": "面向全球南方学生的奖学金与博士机会聚合账号。",
+    "url": "https://x.com/GlobalOpp1",
+    "notes": "本 run 发布 VUB 数字人文与 Texas State 等全额博士信息。",
+    "added_at": "2026-08-01T11:38:16Z"
+  },
+  {
+    "handle": "@GenePlumber",
+    "type": "personal",
+    "name": "Darren N. Nesbeth",
+    "description": "工业合成生物学方向 PI，发布本组博士招生。",
+    "url": "https://x.com/GenePlumber",
+    "notes": "本 run 招聘酵母工程生产微生物棕榈油博士生（SCALE IB）。",
+    "added_at": "2026-08-01T11:38:16Z"
+  },
+  {
+    "handle": "@GroupGuldi",
+    "type": "personal",
+    "name": "Guldi_Group",
+    "description": "FAU 化学 Guldi 课题组账号，发布组内博士职位。",
+    "url": "https://x.com/GroupGuldi",
+    "notes": "本 run 开放多个化学/纳米尺度光转换相关博士岗位。",
+    "added_at": "2026-08-01T11:38:16Z"
+  },
+  {
+    "handle": "@dr_MaOlsz",
+    "type": "personal",
+    "name": "Marta Olszewska, PhD",
+    "description": "波兰科学院人类遗传研究所 PI，生殖基因组学方向。",
+    "url": "https://x.com/dr_MaOlsz",
+    "notes": "本 run 发布空间转录组学/配子发生博士职位。",
+    "added_at": "2026-08-01T11:38:16Z"
+  },
+  {
+    "handle": "@TakeshiMorisato",
+    "type": "other",
+    "name": "Takeshi Morisato 森里 武",
+    "description": "爱丁堡大学讲师，偶发转发人文方向博士招生。",
+    "url": "https://x.com/TakeshiMorisato",
+    "notes": "本 run 转发 KCL 加勒比奴隶制史博士奖学金。",
+    "added_at": "2026-08-01T11:38:16Z"
   }
 ]
