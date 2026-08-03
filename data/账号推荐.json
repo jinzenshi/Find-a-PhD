@@ -304,5 +304,32 @@
     "url": "https://x.com/LokomoPeter",
     "notes": "本 run 发布牛津Rhodes West Africa及多伦多Mastercard Foundation博士相关机会",
     "added_at": "2026-08-03T00:00:00Z"
+  },
+  {
+    "handle": "@MLScientistcom",
+    "type": "aggregator",
+    "name": "ML Scientist",
+    "description": "汇总发布全球博士/奖学金机会的账号",
+    "url": "https://x.com/MLScientistcom",
+    "notes": "本 run 出现有效博士招聘帖，自动入库",
+    "added_at": "2026-08-03T02:39:25Z"
+  },
+  {
+    "handle": "@Grad_School_Hub",
+    "type": "aggregator",
+    "name": "The Graduate School Hub",
+    "description": "汇总发布全球博士/奖学金机会的账号",
+    "url": "https://x.com/Grad_School_Hub",
+    "notes": "本 run 出现有效博士招聘帖，自动入库",
+    "added_at": "2026-08-03T02:39:25Z"
+  },
+  {
+    "handle": "@tajirdigitalng",
+    "type": "aggregator",
+    "name": "Tajir Digital Services",
+    "description": "汇总发布全球博士/奖学金机会的账号",
+    "url": "https://x.com/tajirdigitalng",
+    "notes": "本 run 出现有效博士招聘帖，自动入库",
+    "added_at": "2026-08-03T02:39:25Z"
   }
 ]
