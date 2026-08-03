@@ -331,5 +331,32 @@
     "url": "https://x.com/tajirdigitalng",
     "notes": "本 run 出现有效博士招聘帖，自动入库",
     "added_at": "2026-08-03T02:39:25Z"
+  },
+  {
+    "handle": "@nextdeadlines",
+    "type": "aggregator",
+    "name": "NextDeadlines",
+    "description": "分享最新奖学金和职位机会、职业建议的聚合账号",
+    "url": "https://x.com/nextdeadlines",
+    "notes": "发布各类全额资助博士奖学金信息，包括截止日期提醒",
+    "added_at": "2026-08-03T22:02:54Z"
+  },
+  {
+    "handle": "@Anifelconsult",
+    "type": "aggregator",
+    "name": "Felo",
+    "description": "提供咨询、学术录取、教育和研究服务的账号，转发博士职位",
+    "url": "https://x.com/Anifelconsult",
+    "notes": "分享欧洲高校（如巴黎理工、奥胡斯）详细博士招聘信息",
+    "added_at": "2026-08-03T22:02:54Z"
+  },
+  {
+    "handle": "@djtrivedi",
+    "type": "personal",
+    "name": "Dhara Trivedi",
+    "description": "克拉克森大学物理副教授，直接招聘博士生",
+    "url": "https://x.com/djtrivedi",
+    "notes": "计算凝聚态物理、材料科学方向研究组",
+    "added_at": "2026-08-03T22:02:54Z"
   }
 ]
