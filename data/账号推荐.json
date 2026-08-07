@@ -358,5 +358,32 @@
     "url": "https://x.com/djtrivedi",
     "notes": "计算凝聚态物理、材料科学方向研究组",
     "added_at": "2026-08-03T22:02:54Z"
+  },
+  {
+    "handle": "@y_m_asano",
+    "type": "personal",
+    "name": "Yuki",
+    "description": "纽伦堡工业大学FunAI Lab全职教授，直接发布实验室博士招聘",
+    "url": "https://x.com/y_m_asano",
+    "notes": "个人教授账号，发布Vision-Language-Action与3D几何相关博士职位",
+    "added_at": "2026-08-08T12:01:00Z"
+  },
+  {
+    "handle": "@mboehme_",
+    "type": "personal",
+    "name": "Marcel Böhme",
+    "description": "软件安全研究组负责人，从波鸿迁至慕尼黑CISPA/TUM，直接招聘博士与博士后",
+    "url": "https://x.com/mboehme_",
+    "notes": "个人教授账号，可扩展软件安全方向",
+    "added_at": "2026-08-08T12:01:00Z"
+  },
+  {
+    "handle": "@GPCRHenry",
+    "type": "personal",
+    "name": "Henry A. Dunn",
+    "description": "曼尼托巴大学助理教授，神经药理学与GPCR方向，直接发布实验室博士职位",
+    "url": "https://x.com/GPCRHenry",
+    "notes": "个人教授账号，CIHR资助神经科学博士",
+    "added_at": "2026-08-08T12:01:00Z"
   }
 ]
