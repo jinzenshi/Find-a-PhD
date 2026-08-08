@@ -385,5 +385,23 @@
     "url": "https://x.com/GPCRHenry",
     "notes": "个人教授账号，CIHR资助神经科学博士",
     "added_at": "2026-08-08T12:01:00Z"
+  },
+  {
+    "handle": "@opportunitiesfy",
+    "type": "aggregator",
+    "name": "OPPORTUNITIES FOR YOUTH",
+    "description": "青年机会与全奖博士/奖学金信息聚合账号",
+    "url": "https://x.com/opportunitiesfy",
+    "notes": "发布多国全奖 PhD 与青年项目，信息完整度中等",
+    "added_at": "2026-08-08T09:53:29Z"
+  },
+  {
+    "handle": "@linguistlist",
+    "type": "aggregator",
+    "name": "LINGUIST List",
+    "description": "语言学领域职位与资源权威列表",
+    "url": "https://x.com/linguistlist",
+    "notes": "偶发博士岗位，尤其是语言学/计算语言学",
+    "added_at": "2026-08-08T09:53:29Z"
   }
 ]
