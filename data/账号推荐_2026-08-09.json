@@ -1,0 +1,11 @@
+[
+  {
+    "handle": "@owlindex",
+    "type": "aggregator",
+    "name": "Owlindex",
+    "description": "全球研究与学术卓越中心，策展顶级博士、博士后及教职机会",
+    "url": "https://x.com/owlindex",
+    "notes": "本 run 发布多条全额资助博士职位信息，自动入库",
+    "added_at": "2026-08-09T12:00:00Z"
+  }
+]
