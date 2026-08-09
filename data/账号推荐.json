@@ -403,5 +403,23 @@
     "url": "https://x.com/linguistlist",
     "notes": "偶发博士岗位，尤其是语言学/计算语言学",
     "added_at": "2026-08-08T09:53:29Z"
+  },
+  {
+    "handle": "@art_pel_",
+    "type": "personal",
+    "name": "Arthur Pellegrino",
+    "description": "巴黎高等师范学院AI研究员，直接发布理论机器学习博士职位",
+    "url": "https://x.com/art_pel_",
+    "notes": "个人账号，黎曼几何与神经网络方向",
+    "added_at": "2026-08-09T22:03:10Z"
+  },
+  {
+    "handle": "@DaganLab",
+    "type": "personal",
+    "name": "Tal Dagan",
+    "description": "基尔大学进化微生物学与系统发育学教授，直接发布实验室博士招聘",
+    "url": "https://x.com/DaganLab",
+    "notes": "个人教授账号，抗生素抗性质粒进化方向",
+    "added_at": "2026-08-09T22:03:10Z"
   }
 ]
