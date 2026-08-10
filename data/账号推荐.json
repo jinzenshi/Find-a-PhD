@@ -257,7 +257,7 @@
     "name": "Darren N. Nesbeth",
     "description": "工业合成生物学方向 PI，发布本组博士招生。",
     "url": "https://x.com/GenePlumber",
-    "notes": "本 run 招聘酵母工程生产微生物棕榈油博士生（SCALE IB）。",
+    "notes": "本 run 招聘酵母工程生产微生物棕榄油博士生（SCALE IB）。",
     "added_at": "2026-08-01T11:38:16Z"
   },
   {
@@ -421,5 +421,23 @@
     "url": "https://x.com/DaganLab",
     "notes": "个人教授账号，抗生素抗性质粒进化方向",
     "added_at": "2026-08-09T22:03:10Z"
+  },
+  {
+    "handle": "@MarcONeals",
+    "type": "aggregator",
+    "name": "Marc O'Nealsen",
+    "description": "高频转发Owlindex等平台全额资助博士与研究职位的聚合账号",
+    "url": "https://x.com/MarcONeals",
+    "notes": "与@owlindex内容高度重叠，主要发布美国高校PhD信息",
+    "added_at": "2026-08-10T22:03:17Z"
+  },
+  {
+    "handle": "@owlindex",
+    "type": "aggregator",
+    "name": "Owlindex",
+    "description": "全球研究与学术机会汇总平台，持续发布全额资助PhD、Postdoc与教职信息",
+    "url": "https://x.com/owlindex",
+    "notes": "对应网站owlindex.com，高频更新多学科博士职位",
+    "added_at": "2026-08-10T22:03:17Z"
   }
 ]
