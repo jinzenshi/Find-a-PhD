@@ -1,0 +1,20 @@
+[
+  {
+    "handle": "@officialinested",
+    "type": "aggregator",
+    "name": "Inested",
+    "description": "基于个性化研究兴趣匹配学生与教授的平台，发布PhD职位信息",
+    "url": "https://x.com/officialinested",
+    "notes": "新发现的职位匹配与发布平台账号",
+    "added_at": "2026-08-12T22:30:00Z"
+  },
+  {
+    "handle": "@Epijobs",
+    "type": "aggregator",
+    "name": "Epidemiology Job Openings (EpiJobs)",
+    "description": "专注流行病学与公共卫生领域最新职位机会的聚合账号",
+    "url": "https://x.com/Epijobs",
+    "notes": "发布包括PhD在内的流行病学相关学术职位",
+    "added_at": "2026-08-12T22:30:00Z"
+  }
+]
