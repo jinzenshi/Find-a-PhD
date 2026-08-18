@@ -448,5 +448,14 @@
     "url": "https://x.com/YadiCao",
     "notes": "PI 本人发帖；实验室页 https://eydcao.github.io/#joining",
     "added_at": "2026-08-15T07:15:14Z"
+  },
+  {
+    "handle": "@dim_p_papa",
+    "type": "personal",
+    "name": "Dim Papadopoulos",
+    "description": "丹麦技术大学（DTU）计算系副教授，直接发布本组计算机视觉与视觉-语言模型方向博士招聘",
+    "url": "https://x.com/dim_p_papa",
+    "notes": "个人教授账号，全额资助多模态AI博士职位",
+    "added_at": "2026-08-19T06:04:00Z"
   }
 ]
