@@ -1,0 +1,38 @@
+[
+  {
+    "handle": "@Scholarshipps",
+    "type": "aggregator",
+    "name": "Scholarships and Jobs in Europe, US, Canada, AU...",
+    "description": "发布欧洲、美国、加拿大、澳大利亚等地硕士、博士和博士后奖学金及职业机会的账号",
+    "url": "https://x.com/Scholarshipps",
+    "notes": "高频发布各类全额资助博士职位通知",
+    "added_at": "2026-08-20T22:15:00Z"
+  },
+  {
+    "handle": "@eduardmatito",
+    "type": "personal",
+    "name": "Eduard Matito 🎗",
+    "description": "理论与计算化学家，Ikerbasque教授，DIPC成员，直接发布电子结构理论博士招聘",
+    "url": "https://x.com/eduardmatito",
+    "notes": "个人教授账号，西班牙计算化学方向",
+    "added_at": "2026-08-20T22:15:00Z"
+  },
+  {
+    "handle": "@insilicoplants",
+    "type": "aggregator",
+    "name": "in silico Plants",
+    "description": "开放获取期刊账号，发布计算植物科学相关博士与博士后机会",
+    "url": "https://x.com/insilicoplants",
+    "notes": "常转发植物科学、农业建模等领域招聘",
+    "added_at": "2026-08-20T22:15:00Z"
+  },
+  {
+    "handle": "@UTwenteJobs",
+    "type": "aggregator",
+    "name": "UTwente Vacancies",
+    "description": "特温特大学官方招聘账号，发布该校博士与其他职位",
+    "url": "https://x.com/UTwenteJobs",
+    "notes": "大学官方空缺信息源",
+    "added_at": "2026-08-20T22:15:00Z"
+  }
+]
